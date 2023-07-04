@@ -1,9 +1,9 @@
-![reduxARS](https://github.com/mschouhan123/Redux-ARS/assets/32776430/f081ede3-f129-4aa5-bd54-3a60c7382e1b)# Redux-ARS
+# Redux-ARS
 Redux Demo with the Action Reducer and Store. 
 
 
 
-
+![reduxARS](https://github.com/mschouhan123/Redux-ARS/assets/32776430/f081ede3-f129-4aa5-bd54-3a60c7382e1b)
 ![Alt Text](Users/a1/Desktop/reduxARS.png)
 
 
