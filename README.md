@@ -1,14 +1,10 @@
 # Redux-ARS
 Redux Demo with the Action Reducer and Store. 
 
-
+Redux with Action Reducer and Store
 
 ![reduxARS](https://github.com/mschouhan123/Redux-ARS/assets/32776430/f081ede3-f129-4aa5-bd54-3a60c7382e1b)
-![Alt Text](Users/a1/Desktop/reduxARS.png)
 
-
-
-Redux with Action Reducer and Store
 
 A demonstration of understanding action reducers and stores using Redux in a mobile application built with React Native for both Android and iOS. This project showcases three different demos: adding items to a cart, changing the theme, and switching the language.
 
